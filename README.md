@@ -28,6 +28,8 @@ This project includes the following SQL queries:
 9. Average order value by product category
 10. Region with lowest sales amount
 
+Power Bi
+qweries/ database tables was connected to PowerBi and dashboard created .
 
 <!---
 Pawpawski/Pawpawski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
