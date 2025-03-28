@@ -12,6 +12,8 @@ The database schema consists of the following tables:
 - products: product information (product ID, name, category, cost per box)
 - people: salesperson information (salesperson ID, name, team)
 - geo: geographic location information (geo ID, region)
+-<a href="https://github.com/Pawpawski/Chocolates/blob/main/SQL/CHOCOLATES/chocolates-db_creation.sql">Database creation scrip</a>
+
 
 ## SQL Queries
 
