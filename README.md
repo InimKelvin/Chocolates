@@ -27,6 +27,8 @@ This project includes the following SQL queries:
 8. Salesperson with most customers
 9. Average order value by product category
 10. Region with lowest sales amount
+<a href="https://github.com/Pawpawski/Chocolates/blob/main/SQL/CHOCOLATES/chocolates_Qweries.sql">View Queries</a>
+
 
 Power Bi
 qweries/ database tables was connected to PowerBi and dashboard created .
