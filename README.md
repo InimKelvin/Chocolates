@@ -29,10 +29,11 @@ This project includes the following SQL queries:
 10. Region with lowest sales amount
 - <a href="https://github.com/Pawpawski/Chocolates/blob/main/SQL/CHOCOLATES/chocolates_Qweries.sql">View Queries</a>
 
+## Dashboard View
+<img width="668" alt="chocolates_sales_dasshboard" src="https://github.com/user-attachments/assets/406a5db6-fe8f-4755-bd37-234b69acffa3" />
 
-Power Bi
+## Power Bi
 qweries/ database tables was connected to PowerBi and dashboard created .
-
 <!---
 Pawpawski/Pawpawski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
