@@ -1,10 +1,10 @@
-Chocolates Sales Analysis
+#Chocolates Sales Analysis
 
-Overview
+##Overview
 
 This project provides SQL queries and analysis for the Chocolates sales database. It includes queries for sales revenue, best-selling products, salesperson performance, customer insights, and more.
 
-Database Schema
+##Database Schema
 
 The database schema consists of the following tables:
 
@@ -13,7 +13,7 @@ The database schema consists of the following tables:
 - people: salesperson information (salesperson ID, name, team)
 - geo: geographic location information (geo ID, region)
 
-SQL Queries
+##SQL Queries
 
 This project includes the following SQL queries:
 
