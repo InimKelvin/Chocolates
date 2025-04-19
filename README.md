@@ -32,7 +32,7 @@ This project includes the following SQL queries:
 - <a href="https://github.com/InimKelvin/Chocolates/blob/main/SQL/CHOCOLATES/chocolates_Qweries.sql">View Queries</a>
 
 ## Dashboard View
-<img width="668" alt="chocolates_sales_dasshboard" src="https://github.com/user-attachments/assets/406a5db6-fe8f-4755-bd37-234b69acffa3" />
+<img width="668" alt="chocolates_sales_dasshboard" src="https://github.com/InimKelvin/Chocolates/blob/main/chocolates_sales_dashboard.png" />
 
 ## Power Bi
 qweries/ database tables was connected to PowerBi and dashboard created .
