@@ -32,7 +32,7 @@ This project includes the following SQL queries:
 - <a href="https://github.com/InimKelvin/Chocolates/blob/main/SQL/CHOCOLATES/chocolates_Qweries.sql">View Queries</a>
 
 ## Dashboard View
-<img width="668" alt="chocolates_sales_dashboard" src="https://raw.githubusercontent.com/InimKelvin/Chocolates/main/SQL/CHOCOLATES/chocolates_sales_dashboard.png" />
+<img width="669" alt="Screenshot 2025-03-28 072043" src="https://github.com/user-attachments/assets/d6590495-ba43-4a77-b292-d9ca3e1c1e2a" />
 
 
 
