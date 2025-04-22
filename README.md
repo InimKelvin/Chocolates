@@ -12,7 +12,7 @@ The database schema consists of the following tables:
 - products: product information (product ID, name, category, cost per box)
 - people: salesperson information (salesperson ID, name, team)
 - geo: geographic location information (geo ID, region)
-- <a href="https://github.com/InimKelvin/Chocolates/blob/main/SQL/CHOCOLATES/chocolates-db_creation.sql">Database creation script</a>
+- <a href="https://github.com/InimKelvin/Chocolates-sales-Analysis/blob/main/SQL/CHOCOLATES/chocolates-db_creation.sql">Database creation script</a>
 
 
 ## SQL Queries
@@ -29,7 +29,7 @@ This project includes the following SQL queries:
 8. Salesperson with most customers
 9. Average order value by product category
 10. Region with lowest sales amount
-- <a href="https://github.com/InimKelvin/Chocolates/blob/main/SQL/CHOCOLATES/chocolates_Qweries.sql">View Queries</a>
+- <a href="https://github.com/InimKelvin/Chocolates-sales-Analysis/blob/main/SQL/CHOCOLATES/chocolates_Qweries.sql">View Queries</a>
 
 ## Dashboard View
 <img width="668" alt="chocolates_sales_dashboard" src="https://github.com/user-attachments/assets/24925b4f-bdd5-4361-8c95-600df4c725bf" />
